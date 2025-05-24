@@ -1,0 +1,10 @@
+{
+    "rewrites": 
+    [
+        {
+            "source": "/",
+            "destination": "html/Lechones de Lucia.html"
+        }
+
+    ]
+}
