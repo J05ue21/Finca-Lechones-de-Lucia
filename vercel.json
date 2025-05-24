@@ -3,7 +3,7 @@
     [
         {
             "source": "/",
-            "destination": "html/LechonesdeLucia.html"
+            "destination": "html/index.html"
         }
 
     ]
